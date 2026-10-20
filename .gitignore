@@ -1,0 +1,13 @@
+# file yang dihasilkan saat notebook dijalankan
+*.gpkg
+*.geojson
+*.html
+prompt_log.jsonl
+sim_gedung.py
+run_kebijakan.py
+job_simulasi.slurm
+hasil/
+log/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

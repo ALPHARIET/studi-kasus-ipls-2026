@@ -1,0 +1,13 @@
+# Semua paket ini sudah terpasang di Google Colab; file ini untuk menjalankan secara lokal.
+numpy
+pandas>=2.2
+matplotlib
+seaborn
+scipy
+scikit-learn>=1.4
+plotly
+geopandas>=1.0
+shapely>=2.0
+folium
+torch
+jupyterlab
